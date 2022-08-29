@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AbubakrChan
-- 👀 I’m interested in open source
-- 🌱 I’m currently learning computer engg
-- 💞️ I’m looking to collaborate on open source org
 - 📫 How to reach me :abubakrchan555@gmail.com
 
 <!---
