@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbubakrChan
 - 📫 How to reach me :abubakrchan555@gmail.com
-<p align="center">  
+<p>  
    Visitor count:
    <img src="https://profile-counter.glitch.me/AbubakrChan/count.svg" align="center"/> 
  </p>
