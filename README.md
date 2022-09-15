@@ -2,7 +2,7 @@
 - 📫 How to reach me :abubakrchan555@gmail.com
 <p align="center">  
    Visitor count:
-   <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
+   <img src="https://profile-counter.glitch.me/AbubakrChan/count.svg" align="center"/> 
  </p>
 
 <!---
