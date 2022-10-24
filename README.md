@@ -1,4 +1,4 @@
-<h1>My 2nd account (Educational mail)</h1>
+<h1>My 2nd account (Education mail)</h1>
 <a href="https://github.com/Abubakrce19">
   <img src="https://user-images.githubusercontent.com/89600478/197259196-0e2f20d8-854b-4f01-8fd0-0458e40a0c6a.png"/>
 </a>
