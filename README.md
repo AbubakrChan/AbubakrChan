@@ -7,10 +7,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/{AbubakrChan}/count.svg)
 
 
-<img src='.github/workflows/thanks.svg'/>
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Samad%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abubakar%20Here%20🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
-[![@samadpls's Holopin board](https://holopin.me/samadpls)]
 
 [![An image of @abubakrchan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abubakrchan)](https://holopin.io/@abubakrchan)
