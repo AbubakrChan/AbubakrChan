@@ -4,9 +4,6 @@
 </a>
 
 
-
-src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
-
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abubakar%20Here%20🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
