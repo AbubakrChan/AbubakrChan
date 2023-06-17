@@ -10,4 +10,3 @@
 
 [![An image of @abubakrchan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abubakrchan)](https://holopin.io/@abubakrchan)
 .
-.
